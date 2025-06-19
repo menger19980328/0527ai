@@ -1,0 +1,23 @@
+{
+  "apiID": "package_ee6936__c__function_bkhej4rr54ij4",
+  "apiName": "testFunction",
+  "label": {
+    "zh_CN": "测试函数",
+    "en_US": "Test Function"
+  },
+  "description": {
+    "zh_CN": "用于测试的云函数",
+    "en_US": "Cloud function for testing purposes"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": [
+    {
+      "key": "status",
+      "type": "Text",
+      "label": "状态",
+      "description": "函数执行状态"
+    }
+  ]
+}
